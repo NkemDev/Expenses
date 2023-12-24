@@ -149,7 +149,7 @@ None
 Running it on the terminal, the result is 
 
 `[Monitors 9880.87]`
-#### removing an expense
+#### Removing an expense object
 ```
 print("\nRemove an Expense")
 edb.remove_expense(expense_3.id)
